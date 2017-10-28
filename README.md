@@ -1,6 +1,6 @@
 # SUIT CSS utilities: spacing
 
-SUIT CSS image utilities
+SUIT CSS spacing utilities
 
 * Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/).
 
