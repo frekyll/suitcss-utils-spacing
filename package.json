@@ -10,6 +10,16 @@
   ],
   "license": "MIT",
   "author": "Josh Wenning",
+  "files": [
+    "index.css",
+    "index.js",
+    "lib"
+  ],
+  "style": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frekyll/suitcss-utils-spacing"
+  },
   "scripts": {
     "build": "npm run setup && npm run preprocess",
     "build-test": "npm run setup && npm run preprocess-test",
