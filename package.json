@@ -1,6 +1,10 @@
 {
   "name": "suitcss-utils-spacing",
+<<<<<<< HEAD
   "version": "1.1.0",
+=======
+  "version": "1.0.0",
+>>>>>>> 3700cb98717efe6536b1c361fa99a0215c3e3aaf
   "description": "Spacing utilities for SUIT CSS",
   "keywords": [
     "css",
