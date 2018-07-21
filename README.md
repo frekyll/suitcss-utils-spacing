@@ -1,8 +1,10 @@
 # SUIT CSS utilities: spacing
 
-SUIT CSS spacing utilities
+> SUIT CSS spacing utilities
 
-* Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/).
+Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/).
+
+[![Build Status](https://travis-ci.org/frekyll/suitcss-utils-spacing.svg?branch=master)](https://travis-ci.org/frekyll/suitcss-utils-spacing)
 
 ## Installation
 
