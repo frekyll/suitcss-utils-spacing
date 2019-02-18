@@ -26,7 +26,7 @@ Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/)
 
 ### Configuration
 
-#### Adjust the spacing scale via CSS variables
+#### Adjust the spacing scale via CSS variables.
 
 ```css
 :root {
@@ -38,11 +38,11 @@ Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/)
 }
 ```
 
-Please refer to the README for [SUIT CSS utils](https://github.com/suitcss/utils/)
+Please refer to the README for [SUIT CSS utils](https://github.com/suitcss/utils/).
 
 ## Testing
 
-Install [Node](http://nodejs.org) (comes with npm).
+Install [Node](http://nodejs.org) (comes with npm):
 
 ```
 npm install
@@ -54,13 +54,13 @@ To generate a build:
 npm run build
 ```
 
-To lint code with [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) and [stylelint](http://stylelint.io/)
+To lint code with [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) and [stylelint](http://stylelint.io/):
 
 ```
 npm run lint
 ```
 
-To generate the testing build.
+To generate the testing build:
 
 ```
 npm run build-test
